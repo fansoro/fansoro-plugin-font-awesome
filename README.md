@@ -12,7 +12,7 @@ Simple usage
 {icon name=camera}
 ```
 
-Set size you can use 2x to 5x
+Set size from 2x to 5x
 
 ```
 {icon name=camera size=2x}

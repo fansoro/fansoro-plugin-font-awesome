@@ -1,0 +1,1 @@
+# morfy-plugin-font-awesome

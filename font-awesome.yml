@@ -1,0 +1,13 @@
+name: Font Awesome
+version: 1.0.0
+description: "Font Awesome integration for Morfy"
+author:
+  name: Sergey Romanenko
+  email: awilum@msn.com
+  url: http://morfy.org
+homepage: https://github.com/morfy-cms/morfy-plugin-font-awesome
+bugs: https://github.com/morfy-cms/morfy-plugin-font-awesome/issues
+license: MIT
+
+# Plugin settings
+enabled: true

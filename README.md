@@ -1,8 +1,8 @@
 # Font Awesome
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/) integration for Morfy.
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/) integration for Fansoro.
 
 ## Installation
-See [this instruction](http://morfy.org/documentation/plugins/plugins-installation)
+See [this instruction](http://fansoro.org/documentation/plugins/plugins-installation)
 
 ## Usage in page content
 
@@ -36,4 +36,4 @@ Add other class name
 | enabled | true | or `false` to disable the plugin |
 
 ## License
-See [LICENSE](https://github.com/morfy-cms/morfy-plugin-font-awesome/blob/master/LICENSE)
+See [LICENSE](https://github.com/fansoro/fansoro-plugin-font-awesome/blob/master/LICENSE)
